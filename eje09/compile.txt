@@ -1,0 +1,3 @@
+--module commonjs
+alumno.ts
+index.ts
